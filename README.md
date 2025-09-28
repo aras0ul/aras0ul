@@ -8,7 +8,7 @@
 
 <div align="center">
 </div> 
-<p align="center"> <img width="15" height="15" src="https://files.catbox.moe/5fyn19.png"> hell0, please refer t0 me as aradia! friends are 0kay t0 use nicknames etc 0u0
+<p align="center"> <img width="15" height="15" src="https://files.catbox.moe/5fyn19.png"> hell0, please refer t0 me as aradia! friends are 0kay t0 use nicknames etc
 <br> <sub>pr0fic/end0 & i d0 n0t care f0r ship/sysc0urse</sub>
 <p align="center"> 
 
