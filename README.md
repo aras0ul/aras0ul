@@ -19,7 +19,7 @@
           <!--  byi stuff 0u0  -->  
   <details>
   <summary>${\textsf{\color{#a10000}byi/ ab0ut me}}$</summary>
-${{\color{#a10000}{\texttt{♈︎}}}}$ 20 y/0 gender-messy gh0st girl 
+${{\color{#a10000}{\texttt{♈︎}}}}$ 18-20 y/0 gender-messy gh0st girl 
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ please d0 n0t expect me t0 act the same as the rest 0f us!
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ i am m0st c0mm0nly with sage & zer0 0r al0ne 0u0
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ i may c0me acr0ss as blunt and rather apathetic at first glance!
@@ -35,5 +35,6 @@ ${{\color{#a10000}{\texttt{♈︎}}}}$ gh0sts/ z0mbies/ undead!
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ h0rr0r and c0nspiracy stuff
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ anat0my & b0nes!
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ hs and classpects 0u0
-<br> ${{\color{#a10000}{\texttt{♈︎}}}}$ 0ld flash games
+<br> ${{\color{#a10000}{\texttt{♈︎}}}}$ w0rd & number games
+<br> ${{\color{#a10000}{\texttt{♈︎}}}}$ inscrypti0n!
   </details>
