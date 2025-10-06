@@ -31,7 +31,6 @@ ${{\color{#a10000}{\texttt{♈︎}}}}$ 18-20 y/0 gender-messy gh0st girl
   <details>
   <summary>${\textsf{\color{#a10000}int/ likes 0u0}}$</summary>
 ${{\color{#a10000}{\texttt{♈︎}}}}$ gh0sts/ z0mbies/ undead!
-<br> ${{\color{#a10000}{\texttt{♈︎}}}}$ w0und care 0u0
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ h0rr0r and c0nspiracy stuff
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ anat0my & b0nes!
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ hs and classpects 0u0
