@@ -20,8 +20,9 @@
   <details>
   <summary>${\textsf{\color{#a10000}byi/ ab0ut me}}$</summary>
 ${{\color{#a10000}{\texttt{♈︎}}}}$ 18-20 y/0 gender-messy gh0st girl 
-<br> ${{\color{#a10000}{\texttt{♈︎}}}}$ please d0 n0t expect me t0 act the same as the rest 0f us!
-<br> ${{\color{#a10000}{\texttt{♈︎}}}}$ i am m0st c0mm0nly with ames, sage, 0r al0ne 0u0
+<br> ${{\color{#a10000}{\texttt{♈︎}}}}$ i am plural and h0ld 0pini0ns aside fr0m 0ther parts
+<br> ${{\color{#a10000}{\texttt{♈︎}}}}$ ╰-➤ i d0 n0t act the same as 0thers either!
+<br> ${{\color{#a10000}{\texttt{♈︎}}}}$ i am m0st c0mm0nly with ames 0r al0ne 0u0
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ i may c0me acr0ss as blunt and rather apathetic at first glance!
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ i l0se my visi0n temp0rarily a l0t
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ f0ggy mem0ry & mem0ry l0ss
