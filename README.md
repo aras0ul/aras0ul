@@ -12,7 +12,7 @@
 <br> <sub> i bl0ck freely & i d0 n0t care f0r disc0urse</sub>
 <p align="center"> 
 
-<p align="center"> ${{\color{#a10000}{\texttt{c+h}}}}$ is always 0kay
+<p align="center"> ${{\color{#a10000}{\texttt{c+h}}}}$ is always 0kay 0u0
 <p align="center"> 
   
 <div align="center"> 
@@ -36,5 +36,6 @@ ${{\color{#a10000}{\texttt{♈︎}}}}$ gh0sts/ z0mbies/ undead!
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ anat0my & b0nes!
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ hs and classpects 0u0
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ w0rd & number games
+<br> ${{\color{#a10000}{\texttt{♈︎}}}}$ a little bit 0f typ0l0gy..
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ inscrypti0n!
   </details>
