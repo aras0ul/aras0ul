@@ -9,7 +9,7 @@
 <div align="center">
 </div> 
 <p align="center"> <img width="15" height="15" src="https://files.catbox.moe/5fyn19.png"> hell0, please refer t0 me as aradia! friends are 0kay t0 use nicknames etc
-<br> <sub>pr0fic/pr0end0 & i d0 n0t care f0r ship/sysc0urse</sub>
+<br> <sub> i d0 n0t care f0r ship/sysc0urse</sub>
 <p align="center"> 
 
 <p align="center"> ${{\color{#a10000}{\texttt{c+h}}}}$ is always 0kay
@@ -21,7 +21,7 @@
   <summary>${\textsf{\color{#a10000}byi/ ab0ut me}}$</summary>
 ${{\color{#a10000}{\texttt{♈︎}}}}$ 18-20 y/0 gender-messy gh0st girl 
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ please d0 n0t expect me t0 act the same as the rest 0f us!
-<br> ${{\color{#a10000}{\texttt{♈︎}}}}$ i am m0st c0mm0nly with sage & zer0 0r al0ne 0u0
+<br> ${{\color{#a10000}{\texttt{♈︎}}}}$ i am m0st c0mm0nly with ames, sage, 0r al0ne 0u0
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ i may c0me acr0ss as blunt and rather apathetic at first glance!
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ i l0se my visi0n temp0rarily a l0t
 <br> ${{\color{#a10000}{\texttt{♈︎}}}}$ f0ggy mem0ry & mem0ry l0ss
